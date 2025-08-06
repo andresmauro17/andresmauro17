@@ -1,8 +1,9 @@
 name: Update README
 
 on:
-  schedule:
+    schedule:
     - cron: '*/30 * * * *'
+    workflow_dispatch: # Allows manual triggering
 
 jobs:
   build:
