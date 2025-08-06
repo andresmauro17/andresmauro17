@@ -1,0 +1,13 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update README
+        run: |
+          echo "Updating README..."
