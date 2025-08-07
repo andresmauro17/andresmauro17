@@ -55,3 +55,7 @@ You can find me on social media as @andresmauro17 👇
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-squar&logo=raspberry-pi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-squar&logo=arduino&logoColor=white)
 
+### Stats
+
+![Andres's GitHub stats](https://github-readme-stats-green-zeta-39.vercel.app/api?username=andresmauro17\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Harlok's WakaTime stats](https://github-readme-stats-green-zeta-39.vercel.app/api/wakatime?username=ffflabs&layout=compact)
