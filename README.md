@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-Hi! I'm Andres Cuervo, Software Engineer passionate about AI, IoT and coding web applications.
+I'm Andres Cuervo, a software developer from Colombia. 🇨🇴
 
-You can find me on social media as @andresmauro17 👇
+I'm passionate about AI, IoT and coding scalable web applications.
+
+You can find me on social media as <a href="https://twitter.com/andresmauro17" target="_blank">@andresmauro17</a>  👇
 
 [![GitHub Badge](https://img.shields.io/github/followers/andresmauro17?style=social)](https://github.com/andresmauro17)
 [![Twitter Badge](https://img.shields.io/twitter/follow/andresmauro17?style=social)](https://twitter.com/intent/follow?screen_name=andresmauro17 "Follow on Twitter")
-[![Linkedin Badge](https://img.shields.io/badge/-andresmauro17-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andresmauro17/)](https://www.linkedin.com/in/andresmauro17/)
+[![Linkedin Badge](https://img.shields.io/badge/-In_andresmauro17-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andresmauro17/)](https://www.linkedin.com/in/andresmauro17/)
 
 ## About Me
 
@@ -54,3 +56,8 @@ You can find me on social media as @andresmauro17 👇
 
 ![Andres's GitHub stats](https://github-readme-stats-green-zeta-39.vercel.app/api?username=andresmauro17\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![Andres' Top Languages](https://github-readme-stats-green-zeta-39.vercel.app/api/top-langs/?username=andresmauro17&hide=TeX&layout=compact)
+
+### Recent Activity
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
