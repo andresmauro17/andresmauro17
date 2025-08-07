@@ -53,4 +53,4 @@ You can find me on social media as @andresmauro17 👇
 ### Stats
 
 ![Andres's GitHub stats](https://github-readme-stats-green-zeta-39.vercel.app/api?username=andresmauro17\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Harlok's WakaTime stats](https://github-readme-stats-green-zeta-39.vercel.app/api/wakatime?username=ffflabs&layout=compact)
+![Andres' Top Languages](https://github-readme-stats-green-zeta-39.vercel.app/api/top-langs/?username=andresmauro17&hide=TeX&layout=compact)
