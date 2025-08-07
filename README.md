@@ -20,8 +20,6 @@ You can find me on social media as @andresmauro17 👇
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-squar&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-squar&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-squar&logo=laravel&logoColor=white)
-
-<!-- Frontend badges -->
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-squar&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-squar&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=flat-squar&logo=vue.js&logoColor=white)
@@ -34,9 +32,7 @@ You can find me on social media as @andresmauro17 👇
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat-squar&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405E.svg?style=flat-squar&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=flat-squar&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/elasticsearch-%2300B2A9.svg?style=flat-squar&logo=elasticsearch&logoColor=white)   
-
-<!-- Devops badges -->
+![Elasticsearch](https://img.shields.io/badge/elasticsearch-%2300B2A9.svg?style=flat-squar&logo=elasticsearch&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%2320232a.svg?style=flat-squar&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-squar&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-squar&logo=github-actions&logoColor=white)
@@ -48,7 +44,6 @@ You can find me on social media as @andresmauro17 👇
 ![Groq](https://img.shields.io/badge/Groq-FF6F00?style=flat-squar&logo=groq&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-squar&logo=opencv&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-squar&logo=matlab&logoColor=white)
-
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-squar&logo=c%2B%2B&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-3CBA54?style=flat-squar&logo=mosquitto&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-00BFFF?style=flat-squar&logo=internet-of-things&logoColor=white)
